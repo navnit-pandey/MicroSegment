@@ -1,0 +1,948 @@
+{
+  "0": {
+    "segment_id": 0,
+    "archetype_name": "Agri-Allied Commercial Scalers",
+    "vernacular_title": "Vikas Pragati (Commercial Producers)",
+    "tagline": "High-capacity commercial units ready for modernization and capital deepening.",
+    "risk_tier": "Low to Moderate",
+    "digital_tier": "Intermediate",
+    "advisory_focus": "Equipment leasing, cold chain/logistics, B2B wholesale forward-contracts, GST migration.",
+    "icon": "\ud83d\ude9c",
+    "size": 824,
+    "percentage_of_portfolio": 20.6,
+    "metrics": {
+      "monthly_revenue": {
+        "mean": 70104.13,
+        "std": 24113.29,
+        "median": 67950.0,
+        "p25": 58500.0,
+        "p75": 78225.0,
+        "min": 27100.0,
+        "max": 339700.0
+      },
+      "loan_amount": {
+        "mean": 222996.36,
+        "std": 54911.12,
+        "median": 219400.0,
+        "p25": 190775.0,
+        "p75": 253100.0,
+        "min": 93600.0,
+        "max": 609800.0
+      },
+      "interest_concession_pct": {
+        "mean": 3.48,
+        "std": 0.58,
+        "median": 3.48,
+        "p25": 3.06,
+        "p75": 3.88,
+        "min": 2.0,
+        "max": 5.0
+      },
+      "tenure_months": {
+        "mean": 35.99,
+        "std": 8.47,
+        "median": 36.0,
+        "p25": 36.0,
+        "p75": 36.0,
+        "min": 18.0,
+        "max": 48.0
+      },
+      "repayment_ratio": {
+        "mean": 0.9,
+        "std": 0.07,
+        "median": 0.91,
+        "p25": 0.85,
+        "p75": 0.94,
+        "min": 0.56,
+        "max": 1.0
+      },
+      "revenue_to_loan_ratio": {
+        "mean": 3.93,
+        "std": 1.33,
+        "median": 3.74,
+        "p25": 3.04,
+        "p75": 4.51,
+        "min": 1.46,
+        "max": 10.16
+      },
+      "income_stability": {
+        "mean": 0.76,
+        "std": 0.11,
+        "median": 0.77,
+        "p25": 0.65,
+        "p75": 0.86,
+        "min": 0.6,
+        "max": 0.92
+      },
+      "business_maturity": {
+        "mean": 0.46,
+        "std": 0.11,
+        "median": 0.46,
+        "p25": 0.39,
+        "p75": 0.54,
+        "min": 0.17,
+        "max": 0.79
+      },
+      "financial_inclusion_score": {
+        "mean": 0.77,
+        "std": 0.12,
+        "median": 0.79,
+        "p25": 0.71,
+        "p75": 0.85,
+        "min": 0.39,
+        "max": 1.0
+      },
+      "digital_adoption_score": {
+        "mean": 0.75,
+        "std": 0.14,
+        "median": 0.78,
+        "p25": 0.68,
+        "p75": 0.85,
+        "min": 0.29,
+        "max": 0.97
+      },
+      "years_in_business": {
+        "mean": 8.46,
+        "std": 3.24,
+        "median": 8.5,
+        "p25": 6.2,
+        "p75": 10.7,
+        "min": 2.0,
+        "max": 18.0
+      },
+      "num_employees": {
+        "mean": 2.1,
+        "std": 0.93,
+        "median": 2.0,
+        "p25": 1.0,
+        "p75": 3.0,
+        "min": 1.0,
+        "max": 4.0
+      },
+      "num_delayed_installments": {
+        "mean": 0.41,
+        "std": 0.62,
+        "median": 0.0,
+        "p25": 0.0,
+        "p75": 1.0,
+        "min": 0.0,
+        "max": 3.0
+      },
+      "digital_payment_ratio": {
+        "mean": 0.63,
+        "std": 0.16,
+        "median": 0.64,
+        "p25": 0.51,
+        "p75": 0.75,
+        "min": 0.3,
+        "max": 0.95
+      },
+      "savings_balance_ratio": {
+        "mean": 1.79,
+        "std": 0.49,
+        "median": 1.77,
+        "p25": 1.47,
+        "p75": 2.13,
+        "min": 0.6,
+        "max": 3.28
+      }
+    },
+    "demographics": {
+      "business_sector": {
+        "Agri-Allied": 55.5,
+        "Dairy & Livestock": 31.1,
+        "Food Processing": 13.1,
+        "Retail & Kirana": 0.2,
+        "Tailoring & Textiles": 0.1
+      },
+      "gender": {
+        "Male": 73.5,
+        "Female": 26.5
+      },
+      "market_access_type": {
+        "Semi-Urban Mandi": 53.9,
+        "Direct Institutional": 30.6,
+        "Weekly Haat": 15.4,
+        "Local Village Only": 0.1
+      },
+      "mobile_banking_usage": {
+        "Smartphone App/UPI": 85.4,
+        "SMS/USSD": 14.6
+      },
+      "shg_cooperative_member": {
+        "1": 82.5,
+        "0": 17.5
+      },
+      "education": {
+        "Secondary": 35.7,
+        "Higher Secondary": 29.0,
+        "Graduate/Vocational": 15.5,
+        "Primary": 14.2,
+        "No Formal": 5.6
+      },
+      "region": {
+        "Eastern": 25.1,
+        "Southern": 23.4,
+        "Northern": 22.5,
+        "Central": 14.6,
+        "Western": 14.4
+      }
+    }
+  },
+  "1": {
+    "segment_id": 1,
+    "archetype_name": "Digital-First Youth Services",
+    "vernacular_title": "Digital Yuva (Tech-Enabled Services)",
+    "tagline": "Mobile-first younger entrepreneurs running agile tech/service hubs.",
+    "risk_tier": "Moderate (High Growth, Short Track Record)",
+    "digital_tier": "Advanced",
+    "advisory_focus": "Working capital limits, digital marketing, ONDC/e-commerce onboarding, inventory software.",
+    "icon": "\ud83d\udcf1",
+    "size": 494,
+    "percentage_of_portfolio": 12.35,
+    "metrics": {
+      "monthly_revenue": {
+        "mean": 43543.32,
+        "std": 18607.84,
+        "median": 41850.0,
+        "p25": 34025.0,
+        "p75": 49200.0,
+        "min": 16000.0,
+        "max": 190900.0
+      },
+      "loan_amount": {
+        "mean": 143473.68,
+        "std": 42510.89,
+        "median": 140700.0,
+        "p25": 118850.0,
+        "p75": 162375.0,
+        "min": 50000.0,
+        "max": 402400.0
+      },
+      "interest_concession_pct": {
+        "mean": 2.82,
+        "std": 0.61,
+        "median": 2.82,
+        "p25": 2.42,
+        "p75": 3.2,
+        "min": 1.5,
+        "max": 4.5
+      },
+      "tenure_months": {
+        "mean": 26.26,
+        "std": 7.03,
+        "median": 24.0,
+        "p25": 24.0,
+        "p75": 36.0,
+        "min": 12.0,
+        "max": 36.0
+      },
+      "repayment_ratio": {
+        "mean": 0.71,
+        "std": 0.11,
+        "median": 0.71,
+        "p25": 0.64,
+        "p75": 0.8,
+        "min": 0.29,
+        "max": 0.98
+      },
+      "revenue_to_loan_ratio": {
+        "mean": 3.92,
+        "std": 1.78,
+        "median": 3.57,
+        "p25": 2.75,
+        "p75": 4.57,
+        "min": 1.03,
+        "max": 12.69
+      },
+      "income_stability": {
+        "mean": 0.55,
+        "std": 0.11,
+        "median": 0.52,
+        "p25": 0.45,
+        "p75": 0.65,
+        "min": 0.45,
+        "max": 0.92
+      },
+      "business_maturity": {
+        "mean": 0.15,
+        "std": 0.06,
+        "median": 0.14,
+        "p25": 0.1,
+        "p75": 0.19,
+        "min": 0.03,
+        "max": 0.35
+      },
+      "financial_inclusion_score": {
+        "mean": 0.36,
+        "std": 0.12,
+        "median": 0.38,
+        "p25": 0.25,
+        "p75": 0.42,
+        "min": 0.15,
+        "max": 0.76
+      },
+      "digital_adoption_score": {
+        "mean": 0.85,
+        "std": 0.09,
+        "median": 0.86,
+        "p25": 0.79,
+        "p75": 0.92,
+        "min": 0.38,
+        "max": 0.99
+      },
+      "years_in_business": {
+        "mean": 2.32,
+        "std": 1.22,
+        "median": 2.3,
+        "p25": 1.4,
+        "p75": 3.1,
+        "min": 0.5,
+        "max": 6.1
+      },
+      "num_employees": {
+        "mean": 0.72,
+        "std": 0.68,
+        "median": 1.0,
+        "p25": 0.0,
+        "p75": 1.0,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "num_delayed_installments": {
+        "mean": 1.34,
+        "std": 1.16,
+        "median": 1.0,
+        "p25": 0.0,
+        "p75": 2.0,
+        "min": 0.0,
+        "max": 6.0
+      },
+      "digital_payment_ratio": {
+        "mean": 0.73,
+        "std": 0.15,
+        "median": 0.75,
+        "p25": 0.62,
+        "p75": 0.85,
+        "min": 0.2,
+        "max": 0.98
+      },
+      "savings_balance_ratio": {
+        "mean": 0.81,
+        "std": 0.35,
+        "median": 0.8,
+        "p25": 0.57,
+        "p75": 1.05,
+        "min": 0.15,
+        "max": 1.87
+      }
+    },
+    "demographics": {
+      "business_sector": {
+        "Services & Repairs": 52.2,
+        "Retail & Kirana": 32.0,
+        "Food Processing": 15.0,
+        "Agri-Allied": 0.4,
+        "Tailoring & Textiles": 0.2
+      },
+      "gender": {
+        "Male": 68.0,
+        "Female": 32.0
+      },
+      "market_access_type": {
+        "Semi-Urban Mandi": 55.5,
+        "Direct Institutional": 23.3,
+        "Weekly Haat": 19.8,
+        "Local Village Only": 1.4
+      },
+      "mobile_banking_usage": {
+        "Smartphone App/UPI": 99.8,
+        "SMS/USSD": 0.2
+      },
+      "shg_cooperative_member": {
+        "0": 85.2,
+        "1": 14.8
+      },
+      "education": {
+        "Higher Secondary": 44.4,
+        "Graduate/Vocational": 39.1,
+        "Secondary": 15.6,
+        "Primary": 0.6,
+        "No Formal": 0.2
+      },
+      "region": {
+        "Eastern": 26.7,
+        "Southern": 25.9,
+        "Northern": 19.2,
+        "Western": 15.0,
+        "Central": 13.2
+      }
+    }
+  },
+  "2": {
+    "segment_id": 2,
+    "archetype_name": "Vulnerable Seasonal Producers",
+    "vernacular_title": "Sankat-Prone (Vulnerable Micro-Farmers)",
+    "tagline": "Margin-thin, weather-dependent micro-enterprises facing severe cashflow volatility.",
+    "risk_tier": "High / Critical",
+    "digital_tier": "Nascent / Basic",
+    "advisory_focus": "Restructured seasonal balloon EMIs, crop micro-insurance, SHG solidarity, emergency credit.",
+    "icon": "\ud83c\udf3e",
+    "size": 712,
+    "percentage_of_portfolio": 17.8,
+    "metrics": {
+      "monthly_revenue": {
+        "mean": 18828.23,
+        "std": 8071.37,
+        "median": 18200.0,
+        "p25": 14600.0,
+        "p75": 22000.0,
+        "min": 7000.0,
+        "max": 115800.0
+      },
+      "loan_amount": {
+        "mean": 55683.71,
+        "std": 17137.64,
+        "median": 55750.0,
+        "p25": 44000.0,
+        "p75": 65900.0,
+        "min": 20000.0,
+        "max": 163200.0
+      },
+      "interest_concession_pct": {
+        "mean": 2.02,
+        "std": 0.49,
+        "median": 2.01,
+        "p25": 1.69,
+        "p75": 2.33,
+        "min": 1.0,
+        "max": 3.46
+      },
+      "tenure_months": {
+        "mean": 16.91,
+        "std": 4.38,
+        "median": 18.0,
+        "p25": 12.0,
+        "p75": 18.0,
+        "min": 12.0,
+        "max": 24.0
+      },
+      "repayment_ratio": {
+        "mean": 0.45,
+        "std": 0.16,
+        "median": 0.45,
+        "p25": 0.34,
+        "p75": 0.56,
+        "min": 0.0,
+        "max": 0.85
+      },
+      "revenue_to_loan_ratio": {
+        "mean": 4.43,
+        "std": 2.09,
+        "median": 3.97,
+        "p25": 2.93,
+        "p75": 5.46,
+        "min": 0.93,
+        "max": 13.14
+      },
+      "income_stability": {
+        "mean": 0.37,
+        "std": 0.13,
+        "median": 0.34,
+        "p25": 0.25,
+        "p75": 0.45,
+        "min": 0.25,
+        "max": 0.65
+      },
+      "business_maturity": {
+        "mean": 0.22,
+        "std": 0.09,
+        "median": 0.22,
+        "p25": 0.16,
+        "p75": 0.28,
+        "min": 0.03,
+        "max": 0.52
+      },
+      "financial_inclusion_score": {
+        "mean": 0.29,
+        "std": 0.16,
+        "median": 0.31,
+        "p25": 0.15,
+        "p75": 0.41,
+        "min": 0.05,
+        "max": 0.65
+      },
+      "digital_adoption_score": {
+        "mean": 0.27,
+        "std": 0.09,
+        "median": 0.24,
+        "p25": 0.2,
+        "p75": 0.3,
+        "min": 0.18,
+        "max": 0.61
+      },
+      "years_in_business": {
+        "mean": 5.1,
+        "std": 2.88,
+        "median": 4.9,
+        "p25": 2.9,
+        "p75": 7.1,
+        "min": 1.0,
+        "max": 15.1
+      },
+      "num_employees": {
+        "mean": 0.14,
+        "std": 0.35,
+        "median": 0.0,
+        "p25": 0.0,
+        "p75": 0.0,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "num_delayed_installments": {
+        "mean": 2.6,
+        "std": 1.71,
+        "median": 2.0,
+        "p25": 1.0,
+        "p75": 4.0,
+        "min": 0.0,
+        "max": 11.0
+      },
+      "digital_payment_ratio": {
+        "mean": 0.11,
+        "std": 0.09,
+        "median": 0.09,
+        "p25": 0.04,
+        "p75": 0.17,
+        "min": 0.0,
+        "max": 0.3
+      },
+      "savings_balance_ratio": {
+        "mean": 0.4,
+        "std": 0.19,
+        "median": 0.41,
+        "p25": 0.27,
+        "p75": 0.52,
+        "min": 0.05,
+        "max": 1.1
+      }
+    },
+    "demographics": {
+      "business_sector": {
+        "Agri-Allied": 60.3,
+        "Dairy & Livestock": 23.9,
+        "Handicrafts & Artisan": 15.9
+      },
+      "gender": {
+        "Male": 52.4,
+        "Female": 47.6
+      },
+      "market_access_type": {
+        "Local Village Only": 73.9,
+        "Weekly Haat": 26.1
+      },
+      "mobile_banking_usage": {
+        "SMS/USSD": 77.9,
+        "Smartphone App/UPI": 22.1
+      },
+      "shg_cooperative_member": {
+        "0": 56.6,
+        "1": 43.4
+      },
+      "education": {
+        "No Formal": 35.5,
+        "Primary": 32.0,
+        "Secondary": 24.5,
+        "Higher Secondary": 7.3,
+        "Graduate/Vocational": 0.7
+      },
+      "region": {
+        "Southern": 26.0,
+        "Eastern": 25.1,
+        "Northern": 19.9,
+        "Central": 14.7,
+        "Western": 14.2
+      }
+    }
+  },
+  "3": {
+    "segment_id": 3,
+    "archetype_name": "Women SHG Collective Artisans",
+    "vernacular_title": "Mahila Shakti (Collective Artisans)",
+    "tagline": "Impeccable repayment discipline with constrained capital and strong social capital.",
+    "risk_tier": "Very Low (Pristine Repayment Track)",
+    "digital_tier": "Emerging / Basic",
+    "advisory_focus": "Direct artisan aggregation, exhibition/fair linkages, collective bulk procurement, digital QR literacy.",
+    "icon": "\ud83e\uddf5",
+    "size": 868,
+    "percentage_of_portfolio": 21.7,
+    "metrics": {
+      "monthly_revenue": {
+        "mean": 21794.01,
+        "std": 7690.25,
+        "median": 21100.0,
+        "p25": 17900.0,
+        "p75": 24300.0,
+        "min": 9000.0,
+        "max": 115300.0
+      },
+      "loan_amount": {
+        "mean": 46651.73,
+        "std": 14297.07,
+        "median": 45650.0,
+        "p25": 37700.0,
+        "p75": 53900.0,
+        "min": 20000.0,
+        "max": 140400.0
+      },
+      "interest_concession_pct": {
+        "mean": 3.98,
+        "std": 0.51,
+        "median": 3.97,
+        "p25": 3.66,
+        "p75": 4.35,
+        "min": 2.58,
+        "max": 5.0
+      },
+      "tenure_months": {
+        "mean": 17.58,
+        "std": 4.41,
+        "median": 18.0,
+        "p25": 12.0,
+        "p75": 18.0,
+        "min": 12.0,
+        "max": 36.0
+      },
+      "repayment_ratio": {
+        "mean": 0.91,
+        "std": 0.05,
+        "median": 0.91,
+        "p25": 0.88,
+        "p75": 0.94,
+        "min": 0.63,
+        "max": 0.99
+      },
+      "revenue_to_loan_ratio": {
+        "mean": 6.0,
+        "std": 2.24,
+        "median": 5.64,
+        "p25": 4.41,
+        "p75": 7.02,
+        "min": 1.71,
+        "max": 16.27
+      },
+      "income_stability": {
+        "mean": 0.66,
+        "std": 0.1,
+        "median": 0.65,
+        "p25": 0.55,
+        "p75": 0.74,
+        "min": 0.55,
+        "max": 0.92
+      },
+      "business_maturity": {
+        "mean": 0.23,
+        "std": 0.08,
+        "median": 0.22,
+        "p25": 0.17,
+        "p75": 0.28,
+        "min": 0.05,
+        "max": 0.48
+      },
+      "financial_inclusion_score": {
+        "mean": 0.76,
+        "std": 0.08,
+        "median": 0.78,
+        "p25": 0.72,
+        "p75": 0.81,
+        "min": 0.4,
+        "max": 0.87
+      },
+      "digital_adoption_score": {
+        "mean": 0.42,
+        "std": 0.15,
+        "median": 0.39,
+        "p25": 0.29,
+        "p75": 0.55,
+        "min": 0.21,
+        "max": 0.72
+      },
+      "years_in_business": {
+        "mean": 4.55,
+        "std": 2.35,
+        "median": 4.4,
+        "p25": 2.7,
+        "p75": 6.3,
+        "min": 1.0,
+        "max": 11.9
+      },
+      "num_employees": {
+        "mean": 0.46,
+        "std": 0.65,
+        "median": 0.0,
+        "p25": 0.0,
+        "p75": 1.0,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "num_delayed_installments": {
+        "mean": 0.29,
+        "std": 0.55,
+        "median": 0.0,
+        "p25": 0.0,
+        "p75": 0.0,
+        "min": 0.0,
+        "max": 4.0
+      },
+      "digital_payment_ratio": {
+        "mean": 0.28,
+        "std": 0.14,
+        "median": 0.27,
+        "p25": 0.17,
+        "p75": 0.39,
+        "min": 0.05,
+        "max": 0.5
+      },
+      "savings_balance_ratio": {
+        "mean": 0.9,
+        "std": 0.3,
+        "median": 0.9,
+        "p25": 0.69,
+        "p75": 1.1,
+        "min": 0.2,
+        "max": 1.76
+      }
+    },
+    "demographics": {
+      "business_sector": {
+        "Tailoring & Textiles": 38.4,
+        "Handicrafts & Artisan": 31.6,
+        "Food Processing": 18.1,
+        "Dairy & Livestock": 11.5,
+        "Retail & Kirana": 0.3
+      },
+      "gender": {
+        "Female": 93.3,
+        "Male": 6.7
+      },
+      "market_access_type": {
+        "Local Village Only": 49.9,
+        "Weekly Haat": 33.6,
+        "Direct Institutional": 16.1,
+        "Semi-Urban Mandi": 0.3
+      },
+      "mobile_banking_usage": {
+        "SMS/USSD": 58.3,
+        "Smartphone App/UPI": 41.7
+      },
+      "shg_cooperative_member": {
+        "1": 94.8,
+        "0": 5.2
+      },
+      "education": {
+        "Primary": 34.0,
+        "Secondary": 34.0,
+        "No Formal": 18.8,
+        "Higher Secondary": 11.1,
+        "Graduate/Vocational": 2.0
+      },
+      "region": {
+        "Eastern": 25.7,
+        "Southern": 24.4,
+        "Northern": 21.2,
+        "Central": 14.5,
+        "Western": 14.2
+      }
+    }
+  },
+  "4": {
+    "segment_id": 4,
+    "archetype_name": "Stable Subsistence Retailers",
+    "vernacular_title": "Gramin Kirana (Village Retail & Trading)",
+    "tagline": "Resilient, long-established neighborhood stores with steady predictable cashflows.",
+    "risk_tier": "Low (Mature & Resilient)",
+    "digital_tier": "Low to Intermediate",
+    "advisory_focus": "Supplier credit formalization, FMCG margin optimization, UPI soundbox adoption, bookkeeping.",
+    "icon": "\ud83c\udfea",
+    "size": 1102,
+    "percentage_of_portfolio": 27.55,
+    "metrics": {
+      "monthly_revenue": {
+        "mean": 33053.27,
+        "std": 11005.89,
+        "median": 31800.0,
+        "p25": 28100.0,
+        "p75": 36300.0,
+        "min": 16000.0,
+        "max": 145000.0
+      },
+      "loan_amount": {
+        "mean": 86907.8,
+        "std": 21537.04,
+        "median": 85800.0,
+        "p25": 72325.0,
+        "p75": 99600.0,
+        "min": 40000.0,
+        "max": 243200.0
+      },
+      "interest_concession_pct": {
+        "mean": 2.48,
+        "std": 0.49,
+        "median": 2.47,
+        "p25": 2.14,
+        "p75": 2.8,
+        "min": 1.46,
+        "max": 4.14
+      },
+      "tenure_months": {
+        "mean": 21.58,
+        "std": 6.64,
+        "median": 24.0,
+        "p25": 18.0,
+        "p75": 24.0,
+        "min": 12.0,
+        "max": 36.0
+      },
+      "repayment_ratio": {
+        "mean": 0.83,
+        "std": 0.09,
+        "median": 0.84,
+        "p25": 0.77,
+        "p75": 0.89,
+        "min": 0.47,
+        "max": 0.99
+      },
+      "revenue_to_loan_ratio": {
+        "mean": 4.76,
+        "std": 1.53,
+        "median": 4.5,
+        "p25": 3.73,
+        "p75": 5.56,
+        "min": 1.65,
+        "max": 13.89
+      },
+      "income_stability": {
+        "mean": 0.81,
+        "std": 0.09,
+        "median": 0.82,
+        "p25": 0.71,
+        "p75": 0.89,
+        "min": 0.41,
+        "max": 0.92
+      },
+      "business_maturity": {
+        "mean": 0.41,
+        "std": 0.11,
+        "median": 0.4,
+        "p25": 0.33,
+        "p75": 0.48,
+        "min": 0.14,
+        "max": 0.81
+      },
+      "financial_inclusion_score": {
+        "mean": 0.52,
+        "std": 0.15,
+        "median": 0.5,
+        "p25": 0.41,
+        "p75": 0.65,
+        "min": 0.17,
+        "max": 0.88
+      },
+      "digital_adoption_score": {
+        "mean": 0.47,
+        "std": 0.16,
+        "median": 0.47,
+        "p25": 0.33,
+        "p75": 0.58,
+        "min": 0.2,
+        "max": 0.81
+      },
+      "years_in_business": {
+        "mean": 10.21,
+        "std": 3.77,
+        "median": 10.2,
+        "p25": 7.5,
+        "p75": 12.7,
+        "min": 3.0,
+        "max": 23.3
+      },
+      "num_employees": {
+        "mean": 0.55,
+        "std": 0.67,
+        "median": 0.0,
+        "p25": 0.0,
+        "p75": 1.0,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "num_delayed_installments": {
+        "mean": 0.84,
+        "std": 0.95,
+        "median": 1.0,
+        "p25": 0.0,
+        "p75": 1.0,
+        "min": 0.0,
+        "max": 5.0
+      },
+      "digital_payment_ratio": {
+        "mean": 0.33,
+        "std": 0.17,
+        "median": 0.32,
+        "p25": 0.2,
+        "p75": 0.46,
+        "min": 0.03,
+        "max": 0.65
+      },
+      "savings_balance_ratio": {
+        "mean": 1.19,
+        "std": 0.4,
+        "median": 1.18,
+        "p25": 0.91,
+        "p75": 1.47,
+        "min": 0.28,
+        "max": 2.5
+      }
+    },
+    "demographics": {
+      "business_sector": {
+        "Retail & Kirana": 68.0,
+        "Tailoring & Textiles": 19.2,
+        "Services & Repairs": 12.1,
+        "Agri-Allied": 0.4,
+        "Handicrafts & Artisan": 0.2
+      },
+      "gender": {
+        "Male": 57.9,
+        "Female": 42.1
+      },
+      "market_access_type": {
+        "Local Village Only": 65.5,
+        "Weekly Haat": 23.6,
+        "Semi-Urban Mandi": 10.8,
+        "Direct Institutional": 0.1
+      },
+      "mobile_banking_usage": {
+        "Smartphone App/UPI": 50.7,
+        "SMS/USSD": 49.3
+      },
+      "shg_cooperative_member": {
+        "0": 61.3,
+        "1": 38.7
+      },
+      "education": {
+        "Secondary": 37.6,
+        "Primary": 29.6,
+        "Higher Secondary": 16.3,
+        "No Formal": 12.5,
+        "Graduate/Vocational": 4.1
+      },
+      "region": {
+        "Eastern": 24.5,
+        "Southern": 24.2,
+        "Northern": 19.3,
+        "Western": 16.9,
+        "Central": 15.1
+      }
+    }
+  }
+}
