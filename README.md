@@ -3,9 +3,11 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.8%2B-orange.svg)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-red.svg)](https://streamlit.io/)
+[![Live App](https://img.shields.io/badge/Live%20Demo-microsegment.streamlit.app-FF4B4B.svg?logo=streamlit&logoColor=white)](https://microsegment.streamlit.app/)
 [![Status](https://img.shields.io/badge/Status-Complete%20%26%20Production--Ready-brightgreen.svg)]()
 [![Evaluation](https://img.shields.io/badge/Academic%20Project-INT%20396%20Capstone-purple.svg)]()
 
+> 🌐 **Live Production App:** [**https://microsegment.streamlit.app/**](https://microsegment.streamlit.app/)  
 > **Operationalizing Unsupervised Machine Learning to Eliminate Monolithic Credit & Advisory Delivery in Priority-Sector Rural Lending** *(MUDRA, NRLM, SHG-Bank Linkage, Regional Rural Banks).*
 
 ---
